@@ -1,0 +1,34 @@
+------------
+  DynamoDB
+------------
+  Managing Settings on DynamoDB Provisioned Capacity Tables
+  https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ProvisionedThroughput.html
+
+
+-----------
+  Geohash
+-----------
+  Geohash article
+  https://acloudguru.com/blog/engineering/location-based-search-results-with-dynamodb-and-geohash
+
+  Geohashes
+  https://www.movable-type.co.uk/scripts/geohash.html
+
+  Notes on Geohashing
+  https://eugene-eeo.github.io/blog/geohashing.html
+
+  Implementing geohashing at scale in serverless web applications
+  https://aws.amazon.com/blogs/compute/implementing-geohashing-at-scale-in-serverless-web-applications/
+
+  Geo Library for Amazon DynamoDB – Part 1: Table Structure
+  https://aws.amazon.com/blogs/mobile/geo-library-for-amazon-dynamodb-part-1-table-structure/
+
+  ngeohash
+  https://www.npmjs.com/package/ngeohash
+
+  latlon-geohash
+  https://www.npmjs.com/package/latlon-geohash
+
+  dynamodb-geo
+  https://www.npmjs.com/package/dynamodb-geo
+
