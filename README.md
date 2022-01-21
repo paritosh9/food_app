@@ -18,7 +18,7 @@ These instructions are for a Linux machine. The process should be very similar f
 8. Visit the demo page at:  
    http://localhost:10000/demo.html  
 
-The first 6 steps are needed the first time.
+The first 6 steps are needed only the first time.
 
 # Important
 
